@@ -26,5 +26,6 @@ $ git push heroku master
 $ heroku open
 ```
 Important:<br>
-To make the mailer in the contact form to work, you will need to set .env file.
+To make the mailer in the contact form to work from your local environment, you will need to set .env file.
 In .env file, specify your email address, password,etc.
+For Heroku, you will also need to set them in Heroku website.
