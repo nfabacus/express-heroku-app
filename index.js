@@ -11,9 +11,9 @@ var bodyParser = require('body-parser');
 var expressValidator = require('express-validator');
 
 
-var myPassword = process.env.myPassword;
-var myEmail = process.env.myEmail;
-var myContactEmail = process.env.myContactEmail;
+// var myPassword = process.env.myPassword;
+// var myEmail = process.env.myEmail;
+// var myContactEmail = process.env.myContactEmail;
 
 
 
